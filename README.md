@@ -1,8 +1,8 @@
-# DSMeta - Spring React project - (front-end and back-end) - devsuperior.com
+# DSMeta - Spring React project - (Front-end and Back-end) - devsuperior.com
 
 
 
-front-end: 
+Front-end: 
 
 React,
 HTML,
@@ -10,7 +10,7 @@ CSS,
 JavaScript
 
 
-back-end:
+Back-end:
 
 Java,
 Spring Boot,
